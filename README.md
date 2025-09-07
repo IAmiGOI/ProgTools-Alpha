@@ -23,7 +23,7 @@
 <details>
 <summary>Change Log</summary>
 
-ProgTools Alpha 0.2 от 07.09.25<br> 
+ProgTools Alpha 0.2 от 06.09.25<br> 
   1. Добавлены S2E функции ввода данных<br> 
   2. Добавлен модуль вычисления факториала<br>
 
